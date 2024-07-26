@@ -20,8 +20,8 @@ body{
     width: 25%;
 }
 .head .blink {
-    animation: blinker 1.5s linear infinite;
-    color: red;
+    animation:  blinker 1.3s linear infinite;
+    color:#ff9066;
     font-family: sans-serif;
 }
 
@@ -32,7 +32,7 @@ body{
 }
 .container{
     background:#fff;
-    padding: 20px;
+    padding: 40px;
     border-radius: 10px;
     position: relative;
     top: 50px;
